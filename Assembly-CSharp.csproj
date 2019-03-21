@@ -53,9 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CharacterBehaviour.cs" />
      <Compile Include="Assets\Scripts\Choice.cs" />
      <Compile Include="Assets\Scripts\Manager.cs" />
      <Compile Include="Assets\Scripts\Node.cs" />
+     <None Include="Assets\Sprites\Sprite Sheet Info.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Laurentiu/Code/UnityUni/Lab2/SurvivalHomelessCevaDeGenu/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
